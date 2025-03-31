@@ -170,7 +170,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/KtNipzf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
-📸 *Note: your page may look different, mine was already installed*
+<p> 📸 *Note: your page may look different, mine was already installed* </p>
 </p>
 <p>
 🌍 Part 8: Launch osTicket in Browser
