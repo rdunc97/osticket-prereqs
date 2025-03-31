@@ -30,7 +30,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+</p>![createVM](https://github.com/user-attachments/assets/ebf0990a-2aa7-45be-901a-9522e17febbd)
+
 <p>
 Create an Azure Virtual Machine Windows 10, at least 2 vCPUs
 
