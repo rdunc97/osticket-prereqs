@@ -48,7 +48,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/wtRJxVC.png" height="50%" width="50%" alt="Connect to VM"/>
+<img src="https://i.imgur.com/wtRJxVC.png" height="40%" width="40%" alt="Connect to VM"/>
 </p>
 <p>
 🔐 Part 2: Connect to Your VM using the public IP address
