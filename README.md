@@ -33,7 +33,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-## 🚀 Part 1: Create the Virtual Machine in Azure
+🚀 Part 1: Create the Virtual Machine in Azure
 
 1. **Go to the Azure Portal**
 2. **Create a new Virtual Machine**
@@ -43,8 +43,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - **Username**: `labuser`
    - **Password**: `osTicketPassword1!`
 3. Click **Review + Create**, then **Create**.
-
-📸 *Screenshot: Azure VM settings page*
 
 </p>
 <br />
