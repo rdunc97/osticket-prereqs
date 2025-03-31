@@ -96,9 +96,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 </p>
 <p>
-## ⚙️ Part 5: Install osTicket Dependencies
+⚙️ Part 5: Install osTicket Dependencies
 
-### From the `osTicket-Installation-Files` folder:
+From the `osTicket-Installation-Files` folder:
 
 1. **Install PHP Manager for IIS**
    - Run: `PHPManagerForIIS_V1.5.0.msi`
