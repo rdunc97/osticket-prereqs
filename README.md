@@ -247,7 +247,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/DMreT8I.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DMreT8I.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 🗃️ Part 12: Set Up the Database
