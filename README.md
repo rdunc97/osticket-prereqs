@@ -182,3 +182,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 ---
 </p>
 <br />
+
+
+
+<p>
+<img src="https://i.imgur.com/5JrUOaK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+⚙️ Part 9: Enable Required PHP Extensions
+
+1. In IIS → Sites → Default → osTicket
+2. Double-click **PHP Manager**
+3. Click **Enable or disable an extension**
+4. Enable the following:
+   - ✅ `php_imap.dll`
+   - ✅ `php_intl.dll`
+   - ✅ `php_opcache.dll`
+5. Refresh the browser.
+---
+</p>
+<br />
+
