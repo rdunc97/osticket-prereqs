@@ -29,7 +29,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/nKCFqm6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nKCFqm6.png" height="80%" width="80%" alt="VM Azure"/>
 
 
 <p>
@@ -63,7 +63,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <br />
 
 <p>
-<img src="https://i.imgur.com/YgTkkpV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YgTkkpV.png" height="80%" width="80%" alt="extracted"/>
 </p>
 <p>
 📁 Part 3: Setup Files in the VM
@@ -78,7 +78,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/olEEL1y.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/olEEL1y.png" height="50%" width="50%" alt="install"/>
 </p>
 <p>
 🌐 Part 4: Install IIS and CGI
@@ -131,7 +131,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/t7f6tcR.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t7f6tcR.png" height="50%" width="50%" alt="IISPHP"/>
 </p>
 <p>
 🌐 Part 6: Configure IIS and PHP
@@ -149,7 +149,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/K9kaHNn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/K9kaHNn.png" height="50%" width="50%" alt="osTicketFiles"/>
 </p>
 <p>
 📥 Part 7: Install osTicket Files
@@ -169,7 +169,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/KtNipzf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KtNipzf.png" height="50%" width="50%" alt="osTicket"/>
 <p> 📸 *Note: your page may look different, mine was already installed* </p>
 </p>
 <p>
@@ -186,7 +186,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/5JrUOaK.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5JrUOaK.png" height="65%" width="65%" alt="extensions"/>
 </p>
 <p>
 ⚙️ Part 9: Enable Required PHP Extensions
@@ -206,7 +206,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/TjaFCC7.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TjaFCC7.png" height="65%" width="65%" alt="configfile"/>
 </p>
 <p>
 🛠️ Part 10: Rename Config File
@@ -247,7 +247,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/DMreT8I.png" height="55%" width="55%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DMreT8I.png" height="55%" width="55%" alt="heidisql"/>
 </p>
 <p>
 🗃️ Part 12: Set Up the Database
@@ -260,7 +260,46 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - Password: `root`
 4. Connect and create a new database called `osTicket`
 
-📸 *Screenshot: HeidiSQL database creation*
+---
+</p>
+<br />
+
+
+
+
+<p>
+</p>
+<p>
+✅ Part 13: Finish Setup in Browser
+
+1. Go back to the browser
+2. Use the following:
+   - Database Name: `osTicket`
+   - Username: `root`
+   - Password: `root`
+3. Click **Install Now!**
+
+---
+</p>
+<br />
+
+
+
+<p>
+<img src="https://i.imgur.com/efXfW7Y.png" height="55%" width="55%" alt="login"/>
+</p>
+<p>
+🔐 Part 14: Access and Clean Up
+
+- Admin Panel (for staff):
+  - `http://localhost/osTicket/scp/login.php`
+- End User Portal:
+  - `http://localhost/osTicket/`
+
+### Clean up:
+1. Delete: `C:\\inetpub\\wwwroot\\osTicket\\setup`
+2. Change `ost-config.php` permissions:
+   - Set to **Read-only**
 
 ---
 </p>
