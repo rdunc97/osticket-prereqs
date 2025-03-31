@@ -92,3 +92,37 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+
+<p>
+</p>
+<p>
+## ⚙️ Part 5: Install osTicket Dependencies
+
+### From the `osTicket-Installation-Files` folder:
+
+1. **Install PHP Manager for IIS**
+   - Run: `PHPManagerForIIS_V1.5.0.msi`
+
+2. **Install IIS Rewrite Module**
+   - Run: `rewrite_amd64_en-US.msi`
+
+3. **Create folder `C:\\PHP`**
+
+4. **Extract PHP 7.3.8** to `C:\\PHP`
+   - File: `php-7.3.8-nts-Win32-VC15-x86.zip`
+
+5. **Install Visual C++ Redistributable**
+   - Run: `VC_redist.x86.exe`
+
+6. **Install MySQL 5.5.62**
+   - Run: `mysql-5.5.62-win32.msi`
+   - Choose: **Typical Setup**
+   - After install: **Launch Configuration Wizard**
+   - Choose: **Standard Configuration**
+   - Username: `root`
+   - Password: `root`
+
+---
+</p>
+<br />
+
