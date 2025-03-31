@@ -72,18 +72,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 2. Right-click the zip file → **Extract All...**
 3. Confirm the folder name is: `osTicket-Installation-Files`.
 
-📸 *Screenshot: Extracted folder on Desktop*
-
 ---
 </p>
 <br />
 
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/olEEL1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+🌐 Part 4: Install IIS and CGI
+
+1. Open **Control Panel > Programs > Turn Windows features on or off**
+2. Check these boxes:
+   - ✅ **Internet Information Services**
+   - ✅ **World Wide Web Services > Application Development Features > CGI**
+
+---
 </p>
 <br />
 
