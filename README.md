@@ -43,7 +43,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - **Username**: `labuser`
    - **Password**: `osTicketPassword1!`
 3. Click **Review + Create**, then **Create**.
-
+---
 </p>
 <br />
 
@@ -58,6 +58,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Download the `.rdp` file and log in using:
    - **Username**: `labuser`
    - **Password**: `osTicketPassword1!`
+---
 </p>
 <br />
 
