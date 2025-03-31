@@ -244,3 +244,24 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+
+
+<p>
+<img src="https://imgur.com/DMreT8I" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+🗃️ Part 12: Set Up the Database
+
+1. Install **HeidiSQL** from the `osTicket-Installation-Files` folder
+2. Open HeidiSQL
+3. Create a new session:
+   - Host: `localhost`
+   - User: `root`
+   - Password: `root`
+4. Connect and create a new database called `osTicket`
+
+📸 *Screenshot: HeidiSQL database creation*
+
+---
+</p>
+<br />
