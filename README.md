@@ -33,9 +33,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-Create an Azure Virtual Machine Windows 10, at least 2 vCPUs
+## 🚀 Part 1: Create the Virtual Machine in Azure
 
-Log into the VM with Remote Desktop
+1. **Go to the Azure Portal**
+2. **Create a new Virtual Machine**
+   - **Image**: Windows 10
+   - **vCPUs**: 4
+   - **Name**: `osticket-vm`
+   - **Username**: `labuser`
+   - **Password**: `osTicketPassword1!`
+3. Click **Review + Create**, then **Create**.
+
+📸 *Screenshot: Azure VM settings page*
 
 </p>
 <br />
