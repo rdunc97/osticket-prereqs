@@ -15,15 +15,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (Standard DS2, 2 vcpus/7 GiB memory)
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Working Azure Windows 10 Virtual Machine 
+- Remote Desktop Connection Program
+- IIS - Internet Information Services WITH CGI
+- PHP Manager for IIS 
+- Rewrite Module
 
 <h2>Installation Steps</h2>
 
@@ -31,7 +31,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Create an Azure Virtual Machine Windows 10, 4 vCPUs
+Name: osticket-vm
+Username: labuser
+Password: osTicketPassword1!
+
+Log into the VM with Remote Desktop
+
 </p>
 <br />
 
