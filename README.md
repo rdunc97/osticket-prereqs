@@ -228,3 +228,19 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+
+
+<p>
+</p>
+<p>
+✍️ Part 11: Complete osTicket Setup in Browser
+
+1. Go back to your browser.
+2. Fill in the setup:
+   - Helpdesk Name: *Your Choice*
+   - Default email: *Your Choice*
+
+---
+</p>
+<br />
+
