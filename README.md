@@ -186,7 +186,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/5JrUOaK.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/5JrUOaK.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 ⚙️ Part 9: Enable Required PHP Extensions
