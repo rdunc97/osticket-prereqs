@@ -203,3 +203,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
+
+
+<p>
+<img src="https://i.imgur.com/TjaFCC7.png" height="65%" width="65%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+🛠️ Part 10: Rename Config File
+
+1. Go to:  
+   - `C:\\inetpub\\wwwroot\\osTicket\\include`
+2. Rename:
+   - From: `ost-sampleconfig.php`
+   - To: `ost-config.php`
+
+3. Set permissions:
+   - Right-click the file → **Properties > Security**
+   - Click **Advanced**
+   - Disable inheritance and remove all
+   - Add permission:
+     - User: `Everyone`
+     - Allow: `Full control`
+---
+</p>
+<br />
+
