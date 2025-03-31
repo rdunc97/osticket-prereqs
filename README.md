@@ -21,9 +21,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Working Azure Windows 10 Virtual Machine 
 - Remote Desktop Connection Program
-- IIS - Internet Information Services WITH CGI
-- PHP Manager for IIS 
-- Rewrite Module
+- IIS - Internet Information Services WITH CGI (within VM) 
+- PHP Manager for IIS (within VM)
+- Rewrite Module (within VM)
+- HeidiSQL (within VM)
 
 <h2>Installation Steps</h2>
 
@@ -31,10 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create an Azure Virtual Machine Windows 10, 4 vCPUs
-Name: osticket-vm
-Username: labuser
-Password: osTicketPassword1!
+Create an Azure Virtual Machine Windows 10, at least 2 vCPUs
 
 Log into the VM with Remote Desktop
 
