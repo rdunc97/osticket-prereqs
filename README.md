@@ -78,7 +78,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 <p>
-<img src="https://i.imgur.com/olEEL1y.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/olEEL1y.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 🌐 Part 4: Install IIS and CGI
