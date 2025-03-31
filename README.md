@@ -142,9 +142,28 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 3. Restart IIS:
    - Click on the server name → **Stop** and **Start**
 
-📸 *Screenshot: PHP Manager showing registered path*
-
 ---
 </p>
 <br />
 
+
+
+<p>
+<img src="https://i.imgur.com/K9kaHNn.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+📥 Part 7: Install osTicket Files
+
+1. Extract `osTicket-v1.15.8.zip`
+2. Copy the **upload** folder into:
+   - `C:\\inetpub\\wwwroot`
+3. Rename the folder:
+   - From: `upload`
+   - To: `osTicket`
+4. Restart IIS again.
+
+📸 *Screenshot: osTicket folder in wwwroot*
+
+---
+</p>
+<br />
