@@ -162,8 +162,23 @@ This tutorial outlines the prerequisites and installation of the open-source hel
    - To: `osTicket`
 4. Restart IIS again.
 
-📸 *Screenshot: osTicket folder in wwwroot*
+---
+</p>
+<br />
 
+
+
+<p>
+<img src="https://i.imgur.com/KtNipzf.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+📸 *Note: your page may look different, mine was already installed*
+</p>
+<p>
+🌍 Part 8: Launch osTicket in Browser
+
+1. In IIS Manager, go to:
+   - `Sites > Default Web Site > osTicket`
+2. On the right, click **Browse *:80**
+3. A setup page should appear. It might show missing extensions.
 ---
 </p>
 <br />
